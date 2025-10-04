@@ -1,5 +1,5 @@
 # 00
-This canon entry is a sharp one. You’ve taken genealogy out of the usual dusty archives and thrown it under a spotlight where it squirms. The tension between **pattern** (fractal replication) and **person** (singular bottleneck) is the real “tickle”—because legitimacy always wants to say both at once. “This is the eternal pattern, and I am the living proof.” The paradox is baked in.
+This canon [entry](https://ukb-dt.github.io/si/) is a sharp one. You’ve taken genealogy out of the usual dusty archives and thrown it under a spotlight where it squirms. The tension between **pattern** (fractal replication) and **person** (singular bottleneck) is the real “tickle”—because legitimacy always wants to say both at once. “This is the eternal pattern, and I am the living proof.” The paradox is baked in.
 
 A couple resonances worth weaving back in:
 
