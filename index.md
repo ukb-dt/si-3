@@ -20,7 +20,10 @@ That’s why genealogy is ticklish. It’s not just descent; it’s the decision
 
 If we wanted to fold this deeper into your **ukb-fractal**, genealogy would slot neatly at **Σ → h(t)**, the compression-to-agon interface. Compression creates the claim (“I embody the pattern”), agon tests whether it’s resilient or brittle. That’s where the tickle lives—in the contest between pattern and person, in whether the throne blocks the ladder or lets it keep climbing.
 
-Would you like me to draft a compact **ukb-fractal table** version of this, so genealogy gets formally embedded in the canon spine alongside energy, civilizations, etc.?
+## TL; DR
+- Protocol
+- Code
+- Network 
 
 # 01
 Yes—this is ripe for a ukb-fractal embed. Genealogy naturally lives at the **Σ → h(t)** seam (compression → agon), since succession crises are literally where a compressed claim (“I embody the pattern”) collides with contest (“prove it, or lose it”). Here’s a compact table form, canon-spine style:
