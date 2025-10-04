@@ -23,7 +23,7 @@ If we wanted to fold this deeper into your **ukb-fractal**, genealogy would slot
 ## TL; DR
 - Protocol
 - Code
-- Network 
+- [Network](https://ukb-dt.github.io/pbsmc-cesgm/)
 
 # 01
 Yes—this is ripe for a ukb-fractal embed. Genealogy naturally lives at the **Σ → h(t)** seam (compression → agon), since succession crises are literally where a compressed claim (“I embody the pattern”) collides with contest (“prove it, or lose it”). Here’s a compact table form, canon-spine style:
