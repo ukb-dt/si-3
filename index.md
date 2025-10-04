@@ -14,7 +14,7 @@ The “ladder becomes throne” phrase is crystalline. Genealogy is always tryin
 The canon close you wrote nails it:
 
 * **Fractals = orchards** (fruit drops, seeds scatter, groves appear)
-* **Singulars = mausoleums** (a single stone monument, grand but terminal)
+* **Singulars = mausoleums** (a single stone [monument](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), grand but terminal)
 
 That’s why genealogy is ticklish. It’s not just descent; it’s the decision whether your ladder grows trees or petrifies into a tomb.
 
